@@ -1,7 +1,13 @@
+
+.body{
+  display: flex;
+  background: ;
+  align-items: ;
+
 .header{
   display: flex;
   justify-content: center;
   align-items: center;
   height: 1.5rem;
-  width: 100vw;
+  width: 100vw
 }
